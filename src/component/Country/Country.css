@@ -1,0 +1,24 @@
+body {
+  background-color: rgb(236, 236, 236);
+}
+.countries {
+  /* margin: 20px; */
+}
+.countries {
+  width: 400px;
+  background-color: rgb(243, 243, 243);
+  margin: 20px 0;
+  padding: 25px;
+  text-align: center;
+  border-radius: 20px;
+  box-shadow: 5px 5px 20px #beb6b6;
+  margin: 20px;
+}
+.innerCountry img {
+  width: 300px;
+}
+h3,
+P {
+  padding: 0;
+  margin: 0;
+}

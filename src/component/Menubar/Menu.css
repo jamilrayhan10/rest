@@ -1,0 +1,9 @@
+.menubar a {
+  color: black;
+  text-decoration: none;
+  padding: 10px 40px;
+  background-color: rgb(189, 188, 188);
+  margin: 0 10px;
+  border-radius: 5px;
+  font-size: 20px;
+}

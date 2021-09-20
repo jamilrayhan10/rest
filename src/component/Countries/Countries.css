@@ -1,0 +1,11 @@
+h2 {
+  color: green;
+  text-transform: uppercase;
+}
+.displayCountry {
+  /* display: flex;
+  flex-wrap: wrap;
+  margin: auto; */
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
